@@ -1,0 +1,16 @@
+{
+  "name": "rive-phaser-plugin",
+  "version": "1.0.0",
+  "description": "This is currently a WIP plugin for integrating Rive into Phaser.  Will become a published npm package once fully tested and ready.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rive-app/canvas-advanced-single": "^1.0.80",
+    "lodash": "^4.17.21",
+    "phaser": "^3.55.2"
+  }
+}
